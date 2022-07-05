@@ -1,4 +1,4 @@
-# パッケージ構成
+# Go パッケージ構成
 #golang 
 
 ###### tags: `Golang`

@@ -1,5 +1,5 @@
 # rsync 使い方
-#shell #Linux 
+#shell 
 
 ## TL;DR
 

@@ -1,5 +1,5 @@
 # `mv` コマンド
-#shell #Linux
+#shell
 
 ## Case 1
 ### TL;DR

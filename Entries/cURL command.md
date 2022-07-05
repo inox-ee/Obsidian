@@ -1,5 +1,5 @@
 # cURL コマンド
-#Linux 
+#shell 
 
 ## GET
 

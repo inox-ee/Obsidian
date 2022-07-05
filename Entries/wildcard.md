@@ -1,5 +1,5 @@
 # `*` (wildcard)の挙動について
-#Linux #shell 
+#shell 
 
 ## TL;DR
 `*` は hidden files を含めない。
